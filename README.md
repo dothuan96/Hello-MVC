@@ -11,7 +11,6 @@ for this application.
 
 ## Get start
 
-- Clone or download ZIP
 - Install sever:
   + `cd my-project`
   + `composer require server --dev`
